@@ -15,7 +15,7 @@
 ![](http://i.imgur.com/8Fkp3hS.png)
 
 ## Guide philosophy
-- This is ==not a wiki==. I try to cover everything but also I won't explain it all.
+- This is **not a wiki**. I try to cover everything but also I won't explain it all.
 - Documented in a newbie perspective.
 - I believe every person has different preferences.
 - Package Manager is a must.
@@ -101,7 +101,7 @@ Replace `video_url` to your youtube video links you want to download.
 youtube-dl https://www.youtube.com/watch?v=dKmzyj-ovkg
 ~~~
 
-Youtube-dl will start download the video from the link you provide at the ==best quality available==.
+Youtube-dl will start download the video from the link you provide at the **best quality available**.
 
 ### Selecting a different video quality
 In addition to downloading the highest quality, you can show all available video formats by typing this command:
@@ -114,7 +114,7 @@ For **example**, you will get something like this:
 
 ![](https://i.imgur.com/ZWqf30e.png)
 
-Pay attention to numbers on the left, `18`, `43`, `18`, and `43` are the ones with video and audio. Others are ==video and audio separately.==
+Pay attention to numbers on the left, `18`, `43`, `18`, and `43` are the ones with video and audio. Others are **video and audio separately.**
 
 Example, to download this video in `720p` just type:
 
@@ -135,7 +135,7 @@ youtube-dl -f 397+140 https://www.youtube.com/watch?v=dKmzyj-ovkg
 ~~~
 
 #### Tips when selecting a specific video quality
-For best results, you want to look for a video with `av01` **codec** and `mp4a.30.2` codec for audio as it offers ==the best video quality to file size ratio.==
+For best results, you want to look for a video with `av01` **codec** and `mp4a.30.2` codec for audio as it offers **the best video quality to file size ratio.**
 
 ### Downloading multiple videos from a list
 You can create a text file with youtube video links (or any of the other 800+ [supported sites](https://ytdl-org.github.io/youtube-dl/supportedsites.html)), one line at a time using youtube-dl to download a multiple video without having to do it manually. **Example:** 
