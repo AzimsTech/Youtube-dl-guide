@@ -1,3 +1,6 @@
+![GitHub issues](https://img.shields.io/github/watchers/AzimsTech/Youtube-dl-guide.svg?style=social) ![GitHub issues](https://img.shields.io/github/last-commit/AzimsTech/Youtube-dl-guide.svg)
+==========
+
 ## Objectives
 ##### TLDR: Just to share my own way of using Youtube-dl ✌
 <details>
